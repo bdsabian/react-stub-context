@@ -33,7 +33,7 @@
     "webpack": "^1.9.9"
   },
   "peerDependencies": {
-    "react": "^0.13.0"
+    "react": "^0.14.0-rc1"
   },
   "jest": {
     "scriptPreprocessor": "<rootDir>/node_modules/babel-jest",
